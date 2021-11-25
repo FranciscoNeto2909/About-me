@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FranciscoNeto2909.
 - 👀 I’m interested in become a JavaScript developer.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking for a position to gain expirience in the area.  
+- 💞️ I’m looking for one opportunity to grow profissionally.  
 - 📫 How to reach me (85)997844445.
 
 <!---
